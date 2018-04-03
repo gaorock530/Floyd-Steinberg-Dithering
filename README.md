@@ -1,8 +1,15 @@
-## [Floyd-Steinberg-Dithering](https://en.wikipedia.org/wiki/Floyd–Steinberg_dithering)
-
+## Floyd-Steinberg-Dithering
 My Email: <gaorock530@hotmail.com>
 
 ---
+
+#### Ref: 
+[Stippling](http://roberthodgin.com/portfolio/stippling/)
+[Floyd-Steinberg-Dithering](https://en.wikipedia.org/wiki/Floyd–Steinberg_dithering)
+
+---
+
+#### Pseudocode:
 
 ```
 for each y from top to bottom
