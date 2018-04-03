@@ -30,4 +30,7 @@ for each y from top to bottom
 * **crop.js** - resize image and crop the unfit part
 * **text.js** - resize and write text to the image
 * **FSdithering.js** - the main topic here
-
+---
+#### Markdown test:
+* **server.js** - html markdown parser server
+* **index.html** - front-end

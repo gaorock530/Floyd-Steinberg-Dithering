@@ -10,7 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jimp": "^0.2.28"
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "jimp": "^0.2.28",
+    "jquery": "^3.3.1",
+    "markdown": "^0.5.0"
   },
   "devDependencies": {
     "babel-preset-env": "^1.6.1",
