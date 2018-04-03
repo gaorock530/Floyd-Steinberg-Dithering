@@ -5,6 +5,10 @@ My Email: <gaorock530@hotmail.com>
 1. [Stippling](http://roberthodgin.com/portfolio/stippling/)
 2. [Wikipedia](https://en.wikipedia.org/wiki/Floyd–Steinberg_dithering)
 
+#### Algorithm:
+
+![error diffusion](https://wikimedia.org/api/rest_v1/media/math/render/svg/ad305726a5720c59f10c8beb3057c78d43f1fed0)
+
 #### Pseudocode:
 
 ```
