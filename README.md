@@ -29,4 +29,5 @@ for each y from top to bottom
 * **utils.js** - a helper
 * **crop.js** - resize image and crop the unfit part
 * **text.js** - resize and write text to the image
+* **FSdithering.js** - the main topic here
 
