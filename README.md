@@ -3,7 +3,7 @@ My Email: <gaorock530@hotmail.com>
 
 #### Ref: 
 1. [Stippling](http://roberthodgin.com/portfolio/stippling/)
-2. [Floyd-Steinberg-Dithering](https://en.wikipedia.org/wiki/Floyd–Steinberg_dithering)
+2. [Wikipedia](https://en.wikipedia.org/wiki/Floyd–Steinberg_dithering)
 
 #### Pseudocode:
 
