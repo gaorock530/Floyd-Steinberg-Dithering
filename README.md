@@ -1,13 +1,9 @@
 ## Floyd-Steinberg-Dithering
 My Email: <gaorock530@hotmail.com>
 
----
-
 #### Ref: 
-[Stippling](http://roberthodgin.com/portfolio/stippling/)
-[Floyd-Steinberg-Dithering](https://en.wikipedia.org/wiki/Floyd–Steinberg_dithering)
-
----
+1. [Stippling](http://roberthodgin.com/portfolio/stippling/)
+2. [Floyd-Steinberg-Dithering](https://en.wikipedia.org/wiki/Floyd–Steinberg_dithering)
 
 #### Pseudocode:
 
