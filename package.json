@@ -4,11 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node --experimental-modules blue.js",
+    "nodemon": "nodemon --experimental-modules blue.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "jimp": "^0.2.28"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0"
   }
 }

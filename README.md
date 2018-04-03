@@ -23,3 +23,10 @@ for each y from top to bottom
         pixel[x    ][y + 1] := pixel[x    ][y + 1] + quant_error * 5 / 16
         pixel[x + 1][y + 1] := pixel[x + 1][y + 1] + quant_error * 1 / 16
 ```
+
+#### Other files:
+
+* **utils.js** - a helper
+* **crop.js** - resize image and crop the unfit part
+* **text.js** - resize and write text to the image
+
